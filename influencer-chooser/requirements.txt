@@ -1,0 +1,11 @@
+streamlit==1.66.0   # pinned: the theme and layout are tested with this version
+pandas>=2.2
+numpy>=1.26
+plotly==7.1.0
+scikit-learn>=1.4
+pulp==2.9.0
+pypdf>=4.0
+python-docx>=1.1
+fpdf2>=2.7
+markdown>=3.5
+requests>=2.31
